@@ -29,5 +29,5 @@ ___
 1. Item2
 1. Item3
 
-[Generate Report](https://xd.adobe.com/view/2d1f8305-2a66-4165-b384-3d61fa2f9f26-784c/screen/a89621ef-f7b7-442a-b575-5d62f5c7740a
+[Generate Report](https://xd.adobe.com/view/
 "Generate Report")
